@@ -23,6 +23,6 @@ class FindMaxValue{
     }
 }
 
-const result = new FindMaxValue();
-console.log(result.maxValue());
+const response = new FindMaxValue();
+console.log(response.maxValue());
 
