@@ -26,3 +26,4 @@ result.star(7);
 // find the average value from the given array
 
 // i want to find the average value from the given array
+// let arr = [1,2,3,4,5,6,7,8,9,10];
