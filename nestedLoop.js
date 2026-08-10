@@ -24,3 +24,5 @@ result.star(7);
 
 // find odd and even number 15
 // find the average value from the given array
+
+// it is conflict with the previous code snippet, so I will provide a new implementation for finding odd and even numbers and calculating the average value from a given array.
