@@ -24,3 +24,6 @@ result.star(7);
 
 // find odd and even number 15
 // find the average value from the given array
+
+
+// another commit
